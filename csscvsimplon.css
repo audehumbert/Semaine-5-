@@ -63,7 +63,7 @@ h1, h2 {
 }
 
 main {
-	background:url("images/stone.jpg");
+	background:url('images/stone.jpg');
 	width:100%;
 	max-width: 1000px;
 	margin:auto;
